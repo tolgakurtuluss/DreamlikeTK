@@ -6,6 +6,9 @@ In this video, I tried to utilize multiple Stable Diffusion/Lexica Aperture prom
 
 And for the frame interpolation, we used the AI Magic Tools service from RunwayML which offers a free tier for video creation. 📽
 
+* [Folder of all created images](https://github.com/tolgakurtuluss/DreamlikeTK/tree/main/createdimages)
+* [My prompt list](https://github.com/tolgakurtuluss/DreamlikeTK/blob/main/prompts.txt)
+
 Make sure to check out these awesome sources:
 
 - [Lexica Art](https://lexica.art/)
